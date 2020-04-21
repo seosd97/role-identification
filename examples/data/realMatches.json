@@ -1,0 +1,94 @@
+[
+  {
+    "team": [122, 64, 69, 119, 201],
+    "expected": { "TOP": 122, "JUNGLE": 64, "MIDDLE": 69, "BOTTOM": 119, "UTILITY": 201 }
+  },
+  {
+    "team": [11, 555, 84, 150, 222],
+    "expected": { "TOP": 150, "JUNGLE": 11, "MIDDLE": 84, "BOTTOM": 222, "UTILITY": 555 }
+  },
+  {
+    "team": [83, 161, 56, 44, 67],
+    "expected": { "TOP": 83, "JUNGLE": 56, "MIDDLE": 161, "BOTTOM": 67, "UTILITY": 44 }
+  },
+  {
+    "team": [266, 110, 122, 555, 9],
+    "expected": { "TOP": 266, "JUNGLE": 122, "MIDDLE": 9, "BOTTOM": 110, "UTILITY": 555 }
+  },
+  {
+    "team": [238, 32, 51, 117, 103],
+    "expected": { "TOP": 238, "JUNGLE": 32, "MIDDLE": 103, "BOTTOM": 51, "UTILITY": 117 }
+  },
+  {
+    "team": [266, 19, 45, 134, 40],
+    "expected": { "TOP": 266, "JUNGLE": 19, "MIDDLE": 45, "BOTTOM": 134, "UTILITY": 40 }
+  },
+  {
+    "team": [11, 27, 517, 222, 42],
+    "expected": { "TOP": 27, "JUNGLE": 11, "MIDDLE": 517, "BOTTOM": 222, "UTILITY": 42 }
+  },
+  {
+    "team": [48, 517, 99, 122, 236],
+    "expected": { "TOP": 122, "JUNGLE": 48, "MIDDLE": 517, "BOTTOM": 236, "UTILITY": 99 }
+  },
+  {
+    "team": [7, 235, 32, 24, 110],
+    "expected": { "TOP": 24, "JUNGLE": 32, "MIDDLE": 7, "BOTTOM": 110, "UTILITY": 235 }
+  },
+  {
+    "team": [238, 33, 82, 202, 235],
+    "expected": { "TOP": 82, "JUNGLE": 33, "MIDDLE": 238, "BOTTOM": 202, "UTILITY": 235 }
+  },
+  {
+    "team": [86, 104, 157, 202, 350],
+    "expected": { "TOP": 86, "JUNGLE": 104, "MIDDLE": 157, "BOTTOM": 202, "UTILITY": 350 }
+  },
+  {
+    "team": [78, 106, 103, 18, 201],
+    "expected": { "TOP": 78, "JUNGLE": 106, "MIDDLE": 103, "BOTTOM": 18, "UTILITY": 201 }
+  },
+  {
+    "team": [266, 32, 103, 523, 12],
+    "expected": { "TOP": 266, "JUNGLE": 32, "MIDDLE": 103, "BOTTOM": 523, "UTILITY": 12 }
+  },
+  {
+    "team": [84, 245, 34, 22, 432],
+    "expected": { "TOP": 84, "JUNGLE": 245, "MIDDLE": 34, "BOTTOM": 22, "UTILITY": 432 }
+  },
+  {
+    "team": [122, 64, 268, 202, 267],
+    "expected": { "TOP": 122, "JUNGLE": 64, "MIDDLE": 268, "BOTTOM": 202, "UTILITY": 267 }
+  },
+  {
+    "team": [10, 76, 38, 15, 412],
+    "expected": { "TOP": 10, "JUNGLE": 76, "MIDDLE": 38, "BOTTOM": 15, "UTILITY": 412 }
+  },
+  {
+    "team": [516, 11, 99, 498, 350],
+    "expected": { "TOP": 516, "JUNGLE": 11, "MIDDLE": 99, "BOTTOM": 498, "UTILITY": 350 }
+  },
+  {
+    "team": [68, 421, 7, 67, 117],
+    "expected": { "TOP": 68, "JUNGLE": 421, "MIDDLE": 7, "BOTTOM": 67, "UTILITY": 117 }
+  },
+  {
+    "team": [240, 120, 69, 222, 555],
+    "expected": { "TOP": 240, "JUNGLE": 120, "MIDDLE": 69, "BOTTOM": 222, "UTILITY": 555 }
+  },
+  {
+    "team": [78, 107, 126, 81, 89],
+    "expected": { "TOP": 78, "JUNGLE": 107, "MIDDLE": 126, "BOTTOM": 81, "UTILITY": 89 }
+  },
+  {
+    "team": [27, 36, 45, 110, 25],
+    "expected": { "TOP": 27, "JUNGLE": 36, "MIDDLE": 45, "BOTTOM": 110, "UTILITY": 25 }
+  },
+  {
+    "team": [57, 72, 134, 429, 40],
+    "expected": { "TOP": 57, "JUNGLE": 72, "MIDDLE": 134, "BOTTOM": 429, "UTILITY": 40 }
+  },
+  {
+    "team": [63, 77, 110, 29, 25],
+    "expected": { "TOP": 77, "JUNGLE": 63, "MIDDLE": 110, "BOTTOM": 29, "UTILITY": 25 }
+  }
+]
